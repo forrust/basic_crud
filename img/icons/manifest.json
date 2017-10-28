@@ -1,0 +1,13 @@
+{
+    "name": "AutoCrypt",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#8f8f8f",
+    "background_color": "#8f8f8f",
+    "display": "standalone"
+}
