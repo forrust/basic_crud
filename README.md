@@ -1,5 +1,5 @@
 # basic_crud
-Created with PHP (PDO Database functions), jquery (AJAX), bootstrap, bootstrap-table.
+Created with PHP7 (PDO Database functions), jquery (AJAX), bootstrap, bootstrap-table.
 
   Simple example of create, read, update and delete system with jquery ajax calls.
 
