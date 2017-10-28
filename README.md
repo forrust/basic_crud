@@ -1,7 +1,7 @@
 # basic_crud
-Basic crud system with jquery, bootstrap, bootstrap-table and ajax
+Created with jquery, bootstrap, bootstrap-table and ajax
 
-  Simple create, read, update and delete system with jquery ajax and bootstrap-table example.
+  Simple example of create, read, update and delete system with jquery ajax calls.
 
   1. Run basic_crud_build_table.sql to build table in mysql
   2. Edit php/functions_db.php on line 13 change:
