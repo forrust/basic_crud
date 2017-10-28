@@ -10,9 +10,9 @@
 *************************************************************************************/
 
 function db_connect() {
-    $user="maurivz53_crud";
-    $pass="AESzyKafS6";
-    $db="maurivz53_crud";
+    $user="DB-USER";
+    $pass="DB-PASS";
+    $db="DB-NAME";
 
     try{
         return $dbh = new PDO("mysql:host=localhost;dbname=".$db,$user,$pass);
