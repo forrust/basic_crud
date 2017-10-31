@@ -3,8 +3,6 @@
 if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest' && strpos($_SERVER['HTTP_REFERER'],getenv('HTTP_HOST'))==false ){
     die('Something went wrong');
 }else{
-    ini_set('memory_limit', '-1');
-    set_time_limit(0);
     require_once("functions_db.php");
 }
 
